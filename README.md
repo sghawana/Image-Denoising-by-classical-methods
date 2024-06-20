@@ -1,1 +1,1 @@
-reter to report.pdf for results and implementation
+Refer to report.pdf for results and implementation
